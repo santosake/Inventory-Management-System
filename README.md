@@ -1,5 +1,4 @@
 # Inventory-Management-System
-This application has a GUI which manages an inventory of both parts and products. Products are made from a composition of parts. Parts and products can be added, made, modified, deleted and searched for.
 
 This application uses C# and Windows Forms.
 
